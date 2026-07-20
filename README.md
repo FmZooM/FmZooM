@@ -1,6 +1,6 @@
 ## FmZooM | Indie Developer | Beginner Game Programmer | 3D Modeler | Designer
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/d91ed1f5-a91a-45d5-a067-7c621f058b42" /> <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/3780862d-ec1c-401e-baa6-a747ed82d1f8" /> <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/96cb9a71-355a-474e-8568-514880b97a86" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/d91ed1f5-a91a-45d5-a067-7c621f058b42" /> <img width="156" height="128" alt="image" src="https://github.com/user-attachments/assets/3780862d-ec1c-401e-baa6-a747ed82d1f8" /> <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/96cb9a71-355a-474e-8568-514880b97a86" />
 
 
 
